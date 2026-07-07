@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+pymupdf
+tqdm
+chromadb
+sentence-transformers
+datasets
+scikit-learn
+pandas
+numpy
+pytrec_eval
+FlagEmbedding
+fastapi
+uvicorn
+pydantic
